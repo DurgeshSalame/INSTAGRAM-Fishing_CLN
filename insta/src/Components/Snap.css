@@ -1,0 +1,33 @@
+body{
+    background-color: gainsboro;
+}
+.box{
+    /* border: 2px solid black; */
+    margin-top: 100px;
+    margin-left: 500px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 300px;
+}
+.box2{
+    border: none;
+    border-radius: 6px;
+    background-color: white;
+    height: 150px;
+}
+.lbl{
+    font-size: 10px;
+    margin-right: 60px;
+}
+.text{
+    color:  rgb(70, 70, 238);
+}
+.btn{
+    border: none;
+    border-radius: 3px;
+    background-color: rgb(70, 70, 238);
+    color: white;
+}
